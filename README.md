@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React,Angular and DotNet**
 
-- 💬 Ask me about **Anything👻**
+- 💬 Ask me about **something i know👻**
 
 - 📫 How to reach me [mail](athilabdulrahman002@gmail.com)
 
