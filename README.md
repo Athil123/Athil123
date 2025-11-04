@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Athil Abdulrahman</h1>
 <h3 align="center">A passionate Data Science Student😌</h3>
 
-- 🌱 I’m currently learning **React,Angular and DotNet**
+- 🌱 I’m currently learning **React and DotNet**
 
 - 💬 Ask me about **something i know👻**
 
