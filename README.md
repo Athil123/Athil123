@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **React and DotNet**
 
-- 💬 Ask me about **something i know👻**
-
 - 📫 How to reach me [mail](athilabdulrahman002@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Mar3rg2SVhP8GJ1C6ukfatwRJgr6FzsB/view?usp=drive_link)
