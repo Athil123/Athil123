@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Athil Abdulrahman</h1>
-<h3 align="center">A passionate Data Science Student😌</h3>
+<h3 align="center">A passionate Data Science Graduate😌</h3>
 
 - 🌱 I’m currently learning **React and DotNet**
 
