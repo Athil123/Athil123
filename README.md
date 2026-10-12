@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Athil Abdulrahman</h1>
 <h3 align="center">A passionate Data Science Graduate😌</h3>
 
-- 🌱 I’m currently learning **React and DotNet**
+- 🌱 Still in my learning journey
 
 - 📫 How to reach me [mail](athilabdulrahman002@gmail.com)
 
